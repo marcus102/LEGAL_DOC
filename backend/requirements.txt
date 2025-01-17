@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+motor
+pymongo
+python-multipart
+torch
+transformers
+sentence-transformers
+spacy
+PyMuPDF
+
+# fastapi
+# pydantic
+# uvicorn
+# pymongo
+# PyMuPDF
+# transformers
